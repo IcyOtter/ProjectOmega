@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"tsGround","path":"tilesets/tsGround/tsGround.yy",},"order":0,},
     {"id":{"name":"objHill","path":"objects/objHill/objHill.yy",},"order":1,},
     {"id":{"name":"sprHill","path":"sprites/sprHill/sprHill.yy",},"order":2,},
