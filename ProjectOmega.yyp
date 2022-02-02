@@ -7,6 +7,7 @@
     {"id":{"name":"sprHill","path":"sprites/sprHill/sprHill.yy",},"order":2,},
     {"id":{"name":"plains","path":"sprites/plains/plains.yy",},"order":3,},
     {"id":{"name":"sprMainIdle","path":"sprites/sprMainIdle/sprMainIdle.yy",},"order":0,},
+    {"id":{"name":"objBad","path":"objects/objBad/objBad.yy",},"order":2,},
     {"id":{"name":"sprMainRun","path":"sprites/sprMainRun/sprMainRun.yy",},"order":1,},
     {"id":{"name":"objMainRun","path":"objects/objMainRun/objMainRun.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
