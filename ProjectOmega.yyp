@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"sprAttack","path":"sprites/sprAttack/sprAttack.yy",},"order":4,},
     {"id":{"name":"tsGround","path":"tilesets/tsGround/tsGround.yy",},"order":0,},
+    {"id":{"name":"sprBad","path":"sprites/sprBad/sprBad.yy",},"order":5,},
     {"id":{"name":"objHill","path":"objects/objHill/objHill.yy",},"order":1,},
     {"id":{"name":"sprHill","path":"sprites/sprHill/sprHill.yy",},"order":2,},
     {"id":{"name":"plains","path":"sprites/plains/plains.yy",},"order":3,},
